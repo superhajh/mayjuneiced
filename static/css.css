@@ -1,0 +1,55 @@
+* {
+    font-family: 'Black And White Picture', sans-serif;
+
+}
+body {
+    /*background: rgb(169, 169, 169);*/
+}
+.header-box {
+    border-bottom: 1px solid black;
+    width: 100%;
+    height: 100px;
+    display: inline-flex;
+}
+.right-box {
+    margin: auto;
+
+}
+.navbar-nav {
+    font-size: 20px;
+
+}
+.left-box {
+    font-size: 30px;
+    margin: auto;
+
+}
+
+.head-toggle {
+    margin-left: 40px;
+}
+.navbar {
+    font-size: 30px;
+}
+
+.middle-container {
+    width: 100%;
+    height: 30rem;
+    border-bottom: 1px solid;
+
+}
+.container-input {
+    margin : auto;
+    padding-right: 40px;
+    position : relative;
+    top : 20%;
+
+}
+.save {
+    margin-top: 30px;
+    position: absolute;
+    right: 40px;
+}
+.card {
+    margin : 10px;
+}
